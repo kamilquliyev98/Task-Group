@@ -1,0 +1,14 @@
+C:\Users\kamilag\source\repos\Task-Group\Task-Group\bin\Debug\netcoreapp3.1\Task-Group.exe
+C:\Users\kamilag\source\repos\Task-Group\Task-Group\bin\Debug\netcoreapp3.1\Task-Group.deps.json
+C:\Users\kamilag\source\repos\Task-Group\Task-Group\bin\Debug\netcoreapp3.1\Task-Group.runtimeconfig.json
+C:\Users\kamilag\source\repos\Task-Group\Task-Group\bin\Debug\netcoreapp3.1\Task-Group.runtimeconfig.dev.json
+C:\Users\kamilag\source\repos\Task-Group\Task-Group\bin\Debug\netcoreapp3.1\Task-Group.dll
+C:\Users\kamilag\source\repos\Task-Group\Task-Group\bin\Debug\netcoreapp3.1\Task-Group.pdb
+C:\Users\kamilag\source\repos\Task-Group\Task-Group\obj\Debug\netcoreapp3.1\Task-Group.csproj.AssemblyReference.cache
+C:\Users\kamilag\source\repos\Task-Group\Task-Group\obj\Debug\netcoreapp3.1\Task-Group.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamilag\source\repos\Task-Group\Task-Group\obj\Debug\netcoreapp3.1\Task-Group.AssemblyInfoInputs.cache
+C:\Users\kamilag\source\repos\Task-Group\Task-Group\obj\Debug\netcoreapp3.1\Task-Group.AssemblyInfo.cs
+C:\Users\kamilag\source\repos\Task-Group\Task-Group\obj\Debug\netcoreapp3.1\Task-Group.csproj.CoreCompileInputs.cache
+C:\Users\kamilag\source\repos\Task-Group\Task-Group\obj\Debug\netcoreapp3.1\Task-Group.dll
+C:\Users\kamilag\source\repos\Task-Group\Task-Group\obj\Debug\netcoreapp3.1\Task-Group.pdb
+C:\Users\kamilag\source\repos\Task-Group\Task-Group\obj\Debug\netcoreapp3.1\Task-Group.genruntimeconfig.cache
